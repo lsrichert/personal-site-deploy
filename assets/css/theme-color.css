@@ -1,0 +1,177 @@
+/* default css */
+.custom-navbar.top-nav-collapse .logo a , .welcome-area .home-arrow a, .welcome-text h1, .single-stat h2, .about-text span {
+     color: #F27849;
+ }
+ .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, .btn.btn-effect.disabled, ul.work-list li.active, btn, a.btn, .btn, .social-links a:hover, .skill-button li:hover, .hover-content a:hover, .single-address:hover i.fa, .btn.theme-color {
+     background-color: #F27849;
+     color: #fff;
+ }
+ @media only screen and (max-width: 767px) {
+     .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a {
+         background: transparent;
+         color: #F27849;
+     }
+     .custom-navbar .logo a {
+         color: #F27849;
+     }
+ }
+ .btn.btn-effect.disabled:hover,
+ .btn:hover,
+ a.btn:hover,
+ .btn.focus,
+ .btn:focus,
+ .btn:hover {
+     color: #222;
+     background: transparent;
+     border: 2px solid #F27849;
+ }
+ a.btn.quotes-btn:hover {
+     color: #fff;
+     border: 2px solid #F27849;
+ }
+ .technology-area .owl-dots div.active, .single-service::before, .single-service::after {
+     background: #F27849;
+ }
+
+/* color_1 css */
+.color_1_theme .custom-navbar.top-nav-collapse .logo a , .color_1_theme .welcome-area .home-arrow a, .color_1_theme .welcome-text h1, .color_1_theme .single-stat h2, .color_1_theme .about-text span {
+     color: #F27849;
+ }
+ .color_1_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, .color_1_theme .btn.btn-effect.disabled, .color_1_theme ul.work-list li.active, .color_1_theme btn, a.btn, .btn, .color_1_theme .social-links a:hover, .color_1_theme .skill-button li:hover, .color_1_theme .hover-content a:hover, .color_1_theme .single-address:hover i.fa, .color_1_theme .btn.theme-color {
+     background-color: #F27849;
+     color: #fff;
+ }
+ @media only screen and (max-width: 767px) {
+     .color_1_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a {
+         background: transparent;
+         color: #F27849;
+     }
+     .color_1_theme .custom-navbar .logo a {
+         color: #F27849;
+     }
+ }
+ .color_1_theme .btn.btn-effect.disabled:hover,
+ .color_1_theme .btn:hover,
+ .color_1_theme a.btn:hover,
+ .color_1_theme .btn.focus,
+ .color_1_theme .btn:focus,
+ .color_1_theme .btn:hover {
+     color: #222;
+     background: transparent;
+     border: 2px solid #F27849;
+ }
+ .color_1_theme a.btn.quotes-btn:hover {
+     color: #fff;
+     border: 2px solid #F27849;
+ }
+ .color_1_theme .technology-area .owl-dots div.active, .color_1_theme .single-service::before, .color_1_theme .single-service::after {
+     background: #F27849;
+ }
+
+
+/* color_2 css */
+.color_2_theme .custom-navbar.top-nav-collapse .logo a , .color_2_theme .welcome-area .home-arrow a, .color_2_theme .welcome-text h1, .color_2_theme .single-stat h2, .color_2_theme .about-text span {
+     color: #2196F4;
+ }
+ .color_2_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, .color_2_theme .btn.btn-effect.disabled, .color_2_theme ul.work-list li.active, .color_2_theme btn, a.btn, .btn, .color_2_theme .social-links a:hover, .color_2_theme .skill-button li:hover, .color_2_theme .hover-content a:hover, .color_2_theme .single-address:hover i.fa, .color_2_theme .btn.theme-color {
+     background-color: #2196F4;
+     color: #fff;
+ }
+ @media only screen and (max-width: 767px) {
+     .color_2_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a {
+         background: transparent;
+         color: #2196F4;
+     }
+     .color_2_theme .custom-navbar .logo a {
+         color: #2196F4;
+     }
+ }
+ .color_2_theme .btn.btn-effect.disabled:hover,
+ .color_2_theme .btn:hover,
+ .color_2_theme a.btn:hover,
+ .color_2_theme .btn.focus,
+ .color_2_theme .btn:focus,
+ .color_2_theme .btn:hover {
+     color: #222;
+     background: transparent;
+     border: 2px solid #2196F4;
+ }
+ .color_2_theme a.btn.quotes-btn:hover {
+     color: #fff;
+     border: 2px solid #2196F4;
+ }
+ .color_2_theme .technology-area .owl-dots div.active, .color_2_theme .single-service::before, .color_2_theme .single-service::after {
+     background: #2196F4;
+ }
+
+
+/* color_3 css */
+.color_3_theme .custom-navbar.top-nav-collapse .logo a , .color_3_theme .welcome-area .home-arrow a, .color_3_theme .welcome-text h1, .color_3_theme .single-stat h2, .color_3_theme .about-text span {
+     color: #ffc814;
+ }
+ .color_3_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, .color_3_theme .btn.btn-effect.disabled, .color_3_theme ul.work-list li.active, .color_3_theme btn, a.btn, .btn, .color_3_theme .social-links a:hover, .color_3_theme .skill-button li:hover, .color_3_theme .hover-content a:hover, .color_3_theme .single-address:hover i.fa, .color_3_theme .btn.theme-color {
+     background-color: #ffc814;
+     color: #fff;
+ }
+ @media only screen and (max-width: 767px) {
+     .color_3_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a {
+         background: transparent;
+         color: #ffc814;
+     }
+     .color_3_theme .custom-navbar .logo a {
+         color: #ffc814;
+     }
+ }
+ .color_3_theme .btn.btn-effect.disabled:hover,
+ .color_3_theme .btn:hover,
+ .color_3_theme a.btn:hover,
+ .color_3_theme .btn.focus,
+ .color_3_theme .btn:focus,
+ .color_3_theme .btn:hover {
+     color: #222;
+     background: transparent;
+     border: 2px solid #ffc814;
+ }
+ .color_3_theme a.btn.quotes-btn:hover {
+     color: #fff;
+     border: 2px solid #ffc814;
+ }
+ .color_3_theme .technology-area .owl-dots div.active, .color_3_theme .single-service::before, .color_3_theme .single-service::after {
+     background: #ffc814;
+ }
+
+/* color_4 css */
+.color_4_theme .custom-navbar.top-nav-collapse .logo a , .color_4_theme .welcome-area .home-arrow a, .color_4_theme .welcome-text h1, .color_4_theme .single-stat h2, .color_4_theme .about-text span {
+     color: #44b272;
+ }
+ .color_4_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a, .color_4_theme .btn.btn-effect.disabled, .color_4_theme ul.work-list li.active, .color_4_theme btn, a.btn, .btn, .color_4_theme .social-links a:hover, .color_4_theme .skill-button li:hover, .color_4_theme .hover-content a:hover, .color_4_theme .single-address:hover i.fa, .color_4_theme .btn.theme-color {
+     background-color: #44b272;
+     color: #fff;
+ }
+ @media only screen and (max-width: 767px) {
+     .color_4_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a {
+         background: transparent;
+         color: #44b272;
+     }
+     .color_4_theme .custom-navbar .logo a {
+         color: #44b272;
+     }
+ }
+ .color_4_theme .btn.btn-effect.disabled:hover,
+ .color_4_theme .btn:hover,
+ .color_4_theme a.btn:hover,
+ .color_4_theme .btn.focus,
+ .color_4_theme .btn:focus,
+ .color_4_theme .btn:hover {
+     color: #222;
+     background: transparent;
+     border: 2px solid #44b272;
+ }
+ .color_4_theme a.btn.quotes-btn:hover {
+     color: #fff;
+     border: 2px solid #44b272;
+ }
+ .color_4_theme .technology-area .owl-dots div.active, .color_4_theme .single-service::before, .color_4_theme .single-service::after {
+     background: #44b272;
+ }
+
